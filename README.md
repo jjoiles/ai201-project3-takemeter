@@ -297,7 +297,7 @@ I used AI assistance to identify possible patterns among incorrect predictions. 
 
 ## Demo Video
 
-**Demo link:** [ADD DEMO VIDEO LINK HERE]
+**Demo link:** https://drive.google.com/file/d/1i7djSr6Ur5qJQOQQ6xtVbuaRv90uPLcX/view?usp=sharing
 
 The demo includes:
 
